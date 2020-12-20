@@ -1,0 +1,20 @@
+Tic-Tac-Toe Project Description
+Tic-Tac-Toe is a small card game that can be played by two people, or as an option, it can be a player vs. non-player. 
+
+Software requirements
+
+Our Tic-Tac-Toe game will be a Java based game for Windows which will request low memory at run time, and small install space. The game will require a Java compiler in order for the game to run.  Priority version of the Windows system is 10th for this game.
+
+Description
+
+ The game of 2 players taking turns placing their marks in a 3 x 3 grid, in order to outmatch and succeed by placing three of their marks in a horizontal, vertical or diagonal row. The game can eventually be strategized with certain placements which allows advantages towards the upper hand and victory of your opponent.
+
+Goal 
+
+The goal of our project is to create the experience of Tic Tac Toe on a UI in order to mimic the creations of the game that were originally played on a piece of paper. 
+
+Features
+
+Our project will have multiple components including a UI, Options to play against another player or against a CPU (Central Processing Unit), Game Rules that will be displayed at the start of a new game, Settings to change user’s marks (e.g. X’s and O’s), and a Scoring and leaderboard system that will track each player’s wins and losses throughout the period of play.
+
+	
