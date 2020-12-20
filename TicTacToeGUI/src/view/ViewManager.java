@@ -128,11 +128,7 @@ public class ViewManager {
 		creditsLabel.setLayoutY(50);
 		creditsSubScene.getPane().getChildren().add(creditsLabel);
 		
-		CreditsNamesLabel credits = new CreditsNamesLabel(
-				"LEO BABAKHANIAN          RUITAO WU\n\n"
-				+ "RAYDON LAM                     VARDGES HARUTYUNYAN\n\n"
-				+ "LAWRENCE ANTONIO     RYAN NIETO\n\n"
-				+ "ADRIAN HERRERA            SADAF FAKHRIRAVARI");
+		CreditsNamesLabel credits = new CreditsNamesLabel("LEO BABAKHANIAN");
 		credits.setLayoutX(50);
 		credits.setLayoutY(50);
 		creditsSubScene.getPane().getChildren().add(credits);

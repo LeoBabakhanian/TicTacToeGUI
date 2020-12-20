@@ -24,11 +24,11 @@ public class CreditsNamesLabel extends Label{
 	private void setLabelFont() {
 		
 		try {
-			setFont(Font.loadFont(new FileInputStream(new File(FONT_PATH)), 28));
+			setFont(Font.loadFont(new FileInputStream(new File(FONT_PATH)), 65));
 			
 		} catch(FileNotFoundException e) {
 			
-			setFont(Font.font("Verdana", 22));
+			setFont(Font.font("Verdana", 65));
 		}
 	}
 }
