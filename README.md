@@ -10,7 +10,7 @@ This project requires JavaFX.
 - [TransferMarket](#transfermarket)
   - [Installation](#installation)
   - [Dependencies](#dependencies)
-  - [Getting Started](#getting started)
+  - [Getting Started](#getting-started)
   
 ## Installation
 
