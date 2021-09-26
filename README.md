@@ -1,5 +1,5 @@
 # TicTacToe
-> The classic tic-tac-toe game with 4 unique themes. Challenge the computer or your friend!
+> The classic game of tic-tac-toe with 4 unique themes. Challenge the computer or your friend!
 
 ## Dependencies
 
