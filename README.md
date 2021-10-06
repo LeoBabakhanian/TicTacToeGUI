@@ -3,11 +3,11 @@
 
 ## Dependencies
 
-This project requires JavaFX.
+This project requires JavaFX and Eclipse IDE.
 
 ## Table of Contents
 
-- [TransferMarket](#transfermarket)
+- [TicTacToe](#tictactoe)
   - [Installation](#installation)
   - [Dependencies](#dependencies)
   - [Getting Started](#getting-started)
@@ -22,4 +22,4 @@ $ git clone https://github.com/leobabakhanian/TicTacToe.git
 
 ## Getting Started
 
-Install JavaFX and have fun!
+Install JavaFX, run Main.java in Eclipse from src/application, and have fun!
